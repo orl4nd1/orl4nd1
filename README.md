@@ -4,7 +4,7 @@ Hola, soy orl4nd1 👋
 
 🌱 Me especializo principalmente en Java y Lua pero también me defiendo en HTML
 
-👯 Trabajando actualmente en TumberosRP y Aleron City
+👯 Trabajando actualmente en Minehost
 
 📫 Mi discord para contacto: orl4nd1#3436
 
