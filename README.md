@@ -2,7 +2,9 @@ Hola, soy orl4nd1 👋
 
 🔭 Dueño y programador de @HisteriaServers (https://discord.histeriaservers.com.ar/).
 
-🌱 Me especializo principalmente en Java y Lua pero también me defiendo en HTML
+🌱 Me especializo principalmente en Backend pero me defiendo en frontend.
+
+🎮 Me gusta desarrollar en Java y Lua.
 
 👯 Trabajando actualmente en Minehost
 
