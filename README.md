@@ -10,5 +10,3 @@ Hola, soy orl4nd1 👋
 
 📫 Mi discord para contacto: orl4nd1#3436
 
-
-![Estadisticas de Github de Valentín Orlandi](https://github-readme-stats.vercel.app/api?username=orl4nd1&show_icons=true&theme=dracula)
