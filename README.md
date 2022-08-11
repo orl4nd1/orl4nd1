@@ -4,9 +4,9 @@ Hola, soy orl4nd1 👋
 
 🌱 Me especializo principalmente en Backend pero me defiendo en frontend.
 
-🎮 Me gusta desarrollar en Java y Lua.
+🎮 Me gusta desarrollar en Java, Lua y PHP.
 
-👯 Trabajando actualmente en Minehost
+👯 Trabajando actualmente en Minehost e Inetgaming
 
 📫 Mi discord para contacto: orl4nd1#3436
 
