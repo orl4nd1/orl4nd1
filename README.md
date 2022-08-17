@@ -2,11 +2,11 @@ Hola, soy orl4nd1 👋
 
 🔭 Dueño y programador de @HisteriaServers.
 
-💻 Backend dev is my passion (meme)
+💻 backend dev - +35 projects in private.
 
 🎮 Me gusta desarrollar en Java, Lua y PHP.
 
 🌱 Trabajando actualmente en Minehost
 
-📫 Mi discord para contacto: orl4nd1#3436
+📫 https://orlandi.dev/
 
