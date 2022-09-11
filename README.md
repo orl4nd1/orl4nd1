@@ -1,4 +1,6 @@
+```C#
 while(true)
 {
   learn();
 }  
+```
