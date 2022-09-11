@@ -1,3 +1,4 @@
-while(true) {
-	learn();
-}
+while(true)
+{
+  learn();
+}  
