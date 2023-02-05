@@ -2,6 +2,6 @@
 while(true)
 {
   learn();
-  echo("sorry if i dont answer sometimes, i ioncubed my calendar and i dont control my time 🔒");
+  echo("perdón si no contesto mis mensajes, le puse ioncube a mi calendario y no controlo mi tiempo 🔒");
 }  
 ```
