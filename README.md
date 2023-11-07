@@ -2,6 +2,6 @@
 while(true)
 {
   learn(); // +40 private projects
-  echo("A");
+  echo("¿Cuántos pares son 3 botas?");
 }  
 ```
