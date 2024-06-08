@@ -1,3 +1,3 @@
 # the end of an era
 
-![image](https://github.com/orl4nd1/orl4nd1/assets/75501391/52cb3cc3-cad5-4131-88cc-b399d096270f)
+$$\\ce{$\u0026amp;#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background: url('https://github.com/slayeh17/slayeh17/assets/104914725/8dbd0c44-9d5b-4f05-8f65-f179e9342c54');]{x0000}$}$$
